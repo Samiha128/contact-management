@@ -35,19 +35,19 @@ Explain how to use your project here.
 ## Options <a name="options"></a>
 Features
 
-Discover the capabilities of our application with the following key features:
+## Explore the capabilities of our application with the following key features:
 
-    Effortless Contact Management: Seamlessly create, update, and delete contacts. Enter essential contact details such as names, phone numbers, and email addresses effortlessly.
+- **Effortless Contact Management:** Seamlessly create, update, and delete contacts. Enter essential contact details such as names, phone numbers, and email addresses with ease.
 
-    Streamlined Group Management: Take control of your contacts by managing them within customizable groups. Easily add, delete, and organize contacts into groups tailored to your needs.
+- **Streamlined Group Management:** Take control of your contacts by managing them within customizable groups. Easily add, delete, and organize contacts into groups tailored to your needs.
 
-    Smart Group Creation: Say goodbye to manual organization tasks. Our application intelligently creates groups based on contact last names. When you add a new contact, the application automatically assigns it to the appropriate group or creates a new one if needed.
+- **Smart Group Creation:** Say goodbye to manual organization tasks. Our application intelligently creates groups based on contact last names. When you add a new contact, the application automatically assigns it to the appropriate group or creates a new one if needed.
 
-    Advanced Contact Search: Find contacts swiftly using a range of search criteria including names, phone numbers, and email addresses. With our intuitive search feature, locating specific contacts has never been easier.
+- **Advanced Contact Search:** Find contacts swiftly using a range of search criteria including names, phone numbers, and email addresses. With our intuitive search feature, locating specific contacts has never been easier.
 
-    Comprehensive Contact Details: Dive deep into contact information with our detailed view feature. Access comprehensive details of each contact, ensuring you have all the necessary information at your fingertips.
+- **Comprehensive Contact Details:** Dive deep into contact information with our detailed view feature. Access comprehensive details of each contact, ensuring you have all the necessary information at your fingertips.
 
-Experience enhanced search capabilities with optimized use of the SOUNDEX function in the SQL query. In this updated version, we've incorporated cutting-edge algorithms such as Double Metaphone and Jaro-Winkler Distance to significantly improve search accuracy. Discover the power of precise and efficient contact management today.
+Enhance your experience with our application by utilizing enhanced search capabilities. We've optimized the use of the SOUNDEX function in the SQL query and integrated cutting-edge algorithms such as Double Metaphone and Jaro-Winkler Distance to significantly improve search accuracy. Discover the power of precise and efficient contact management today.
 
 
 
