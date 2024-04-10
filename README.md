@@ -64,4 +64,4 @@ Enhance your experience with our application by utilizing enhanced search capabi
 
 ## Contact <a name="contact"></a>
 
-In this section, you can include contact information.
+For any inquiries or questions, please contact via email: samiha.elmansouri@etu.uae.ac.ma.
