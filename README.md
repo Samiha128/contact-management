@@ -2,8 +2,9 @@
 
 1. [Introduction](#overview)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contact](#contact)
+3. [Architecture](#Architecture)
+4. [Usage](#options)
+5. [Contact](#contact)
 
 ## Overview <a name="overview"></a>
 This project is a desktop application developed in Java for managing contacts and groups. It utilizes the JDBC (Java Database Connectivity) API for interacting with an H2 database. The application provides a log.txt file for tracking its logs, which is implemented using Log4j. It is built as a Maven project and can be easily imported and managed in IntelliJ IDEA.
@@ -28,9 +29,20 @@ In general, one IDE may execute faster than the other. The speed difference is n
 
 
 
-## Usage <a name="usage"></a>
+## Usage <a name="Architecture"></a>
+Application Architecture
 
-Explain how to use your project here.
+The application follows a structured approach, organizing its functionality into distinct layers, each with a specific role:
+Database Layer
+
+This layer facilitates interactions with the H2 database. It manages tasks such as data storage, retrieval, and connection management. Serving as a crucial link between the application and the database, it ensures seamless communication.
+Controller Layer
+
+Positioned between the user interface and the application's core logic, this layer acts as a mediator. It receives inputs from the user interface, processes them, and routes them to the relevant parts of the application. Additionally, it handles tasks like data validation and transformation before passing them to the Business Objects layer.
+Business Objects (BO) Layer
+
+At the core of the application lies this layer, housing essential logic and rules governing its behavior. It encapsulates functionalities related to managing contacts and groups, ensuring the application operates in line with its intended purpose.
+
 
 ## Options <a name="options"></a>
 
