@@ -33,7 +33,7 @@ In general, one IDE may execute faster than the other. The speed difference is n
 
 
 The application follows a structured approach, organizing its functionality into distinct layers, each with a specific role:
-- **Database Layer
+- ##Database Layer
 
 This layer facilitates interactions with the H2 database. It manages tasks such as data storage, retrieval, and connection management. Serving as a crucial link between the application and the database, it ensures seamless communication.
 - **Controller Layer
