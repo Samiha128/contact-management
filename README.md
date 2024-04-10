@@ -1,28 +1,26 @@
-# contact-management
-# Table des matières
+# Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](#overview)
 2. [Installation](#installation)
-3. [Utilisation](#utilisation)
-4. [Contribuer](#contribuer)
-5. [Licence](#licence)
+3. [Usage](#usage)
+4. [Contact](#contact)
 
-## Introduction <a name="introduction"></a>
+## Overview <a name="overview"></a>
 
-Ici, vous pouvez écrire une introduction à votre projet.
+In this section, you can provide a general overview of your project's architecture.
 
 ## Installation <a name="installation"></a>
 
-Décrivez comment installer votre projet ici.
+Describe how to install your project here.
 
-## Utilisation <a name="utilisation"></a>
+## Usage <a name="usage"></a>
 
-Expliquez comment utiliser votre projet ici.
+Explain how to use your project here.
 
-## Contribuer <a name="contribuer"></a>
+## Options <a name="options"></a>
 
-Indiquez comment les gens peuvent contribuer à votre projet ici.
+In this section, you can present the different options available in your project.
 
-## Licence <a name="licence"></a>
+## Contact <a name="contact"></a>
 
-Ajoutez ici des informations sur la licence de votre projet.
+In this section, you can include contact information.
