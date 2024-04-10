@@ -6,7 +6,7 @@
 4. [Contact](#contact)
 
 ## Overview <a name="overview"></a>
-This project is a desktop application developed in Java for managing contacts and groups. It utilizes the JDBC (Java Database Connectivity) API for interacting with a MySQL database. The application provides a log.txt file for tracking its logs, which is implemented using Log4j. It is built as a Maven project and can be easily imported and managed in IntelliJ IDEA.
+This project is a desktop application developed in Java for managing contacts and groups. It utilizes the JDBC (Java Database Connectivity) API for interacting with an H2 database. The application provides a log.txt file for tracking its logs, which is implemented using Log4j. It is built as a Maven project and can be easily imported and managed in IntelliJ IDEA.
 
 
 ## Installation <a name="installation"></a>
