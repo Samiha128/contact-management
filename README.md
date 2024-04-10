@@ -33,13 +33,13 @@ In general, one IDE may execute faster than the other. The speed difference is n
 
 
 The application follows a structured approach, organizing its functionality into distinct layers, each with a specific role:
-## Database Layer
+** Database Layer
 
 This layer facilitates interactions with the H2 database. It manages tasks such as data storage, retrieval, and connection management. Serving as a crucial link between the application and the database, it ensures seamless communication.
-## Controller Layer
+** Controller Layer
 
 Positioned between the user interface and the application's core logic, this layer acts as a mediator. It receives inputs from the user interface, processes them, and routes them to the relevant parts of the application. Additionally, it handles tasks like data validation and transformation before passing them to the Business Objects layer.
-## Business Objects (BO) Layer
+** Business Objects (BO) Layer
 
 At the core of the application lies this layer, housing essential logic and rules governing its behavior. It encapsulates functionalities related to managing contacts and groups, ensuring the application operates in line with its intended purpose.
 
