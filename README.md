@@ -33,7 +33,6 @@ In general, one IDE may execute faster than the other. The speed difference is n
 Explain how to use your project here.
 
 ## Options <a name="options"></a>
-Features
 
 ## Explore the capabilities of our application with the following key features:
 
