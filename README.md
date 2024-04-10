@@ -29,8 +29,8 @@ In general, one IDE may execute faster than the other. The speed difference is n
 
 
 
-## Usage <a name="Architecture"></a>
-Application Architecture
+## Application Architecture <a name="Architecture"></a>
+
 
 The application follows a structured approach, organizing its functionality into distinct layers, each with a specific role:
 Database Layer
